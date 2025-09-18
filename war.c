@@ -8,7 +8,7 @@
 #include <string.h>
 
 #define MAX 5
-
+//Criar war conquista de territorio//
 // Definição da struct
 typedef struct {
     char nome[50];
